@@ -1,0 +1,14 @@
+[project]
+name = "house_price"
+version = "0.1.0"
+
+
+[tool.ruff]
+select = [
+"ISC"
+]
+ignore = [
+# "E501", #  Line too long
+]
+
+line-length = 120
