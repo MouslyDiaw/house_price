@@ -3,6 +3,14 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+
+.DS_Store
+.idea/
+
+logs/
+mlruns/
+models/
+
 # C extensions
 *.so
 
